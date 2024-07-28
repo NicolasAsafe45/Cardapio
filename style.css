@@ -82,6 +82,9 @@ body{
     flex-direction: column;
     margin-bottom: 10px;
     width: 100%;
+    justify-content:center;
+    justify-items:center;
+    align-items:center;
 }
 
 .fileira{
