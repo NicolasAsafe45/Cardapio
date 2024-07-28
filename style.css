@@ -1,4 +1,4 @@
-se*{
+sese*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -290,10 +290,3 @@ img{
 
 }
 
-.container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    justify-items: center;
-    align-items: center;
-}
