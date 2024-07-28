@@ -197,6 +197,7 @@ img{
        }
        .menuMobile{
         display: block;
+        margin-right:20px;
        }
        
        .hide{
