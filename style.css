@@ -1,4 +1,4 @@
-*{
+se*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -281,6 +281,10 @@ img{
         }
         .item img{
             width: 160px;
+        }
+        
+        .CarrosselContainer{
+           display:none;
         }
 
 }
