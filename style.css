@@ -24,6 +24,7 @@ body{
     position: fixed;
     background-color: rgb(61, 130, 177);
     z-index: 999999999;
+    top:0;
 }
 
 .HotList{
@@ -277,7 +278,7 @@ img{
             height: 100px;
         }
         .cimao{
-            margin-top: 110px;
+            margin-top: 90px;
         }
         .item img{
             width: 160px;
