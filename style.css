@@ -27,7 +27,7 @@ body{
 }
 
 .HotList{
-    padding: 20px;
+    padding: 35px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
